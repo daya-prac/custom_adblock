@@ -1,0 +1,47 @@
+! ‎2018‎年‎12‎月‎5‎日‎ ‎11‎:‎25‎:‎26 https://www.huya.com/774810
+||a.msstatic.com/huya/main/img/roomgg1-default-2.jpg$image
+
+! ‎2018‎年‎12‎月‎5‎日‎ ‎11‎:‎32‎:‎05 https://www.zhihu.com/question/20227618
+||pic1.zhimg.com/v2-b842d16d724e71e77d3ea5e97e078e9c_540x450%7Cadx4.jpeg$image
+
+! ‎2018‎年‎12‎月‎5‎日‎ ‎14‎:‎57‎:‎35 https://linux.cn/article-10312-1.html
+linux.cn###LX7yCisOsS
+bbs.csdn.net##.adblock
+https://g.csdnimg.cn/check-adblock/1.1.1/check-adblock.js*
+! ## CSDN ###
+blog.csdn.net##div.clearfix .recommend-box
+blog.csdn.net###asideHotArticle
+blog.csdn.net###asideFooter
+blog.csdn.net###asideNewComments
+blog.csdn.net###asideNewArticle
+blog.csdn.net##.pulllog-box
+blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
+
+my.csdn.net
+avatar.csdn.net
+img-ads.csdn.net
+statistic.csdn.net
+pv.csdn.net
+re.csdn.net
+
+csdnimg.cn/pubfooter/*
+csdnimg.cn/search/*
+csdnimg.cn/static/api/js/share/*
+csdnimg.cn/static/api/js/share.js*
+csdnimg.cn/static/api/js/view/share_view.js*
+csdnimg.cn/static/api/js/base/tangram.js*
+csdnimg.cn/public/common/gotop/js/goTop-*
+csdnimg.cn/public/common/toolbar/*
+csdnimg.cn/rabbit/exposure-click/main-*
+csdnimg.cn/release/blog_editor_html/*
+csdnimg.cn/release/phoenix/production/pc_wap_common-*
+csdnimg.cn/release/phoenix/template/css/ck_htmledit_views*
+csdnimg.cn/release/phoenix/template/js/common-*
+csdnimg.cn/release/phoenix/template/js/detail-*
+!csdnimg.cn/release/phoenix/vendor/pagination/*
+csdnimg.cn/release/phoenix/vendor/tingyun/tingyun-rum-blog.js
+
+g.csdnimg.cn/track/
+g.csdnimg.cn/copyright/*
+g.csdnimg.cn/check-adblock/*
+g.csdnimg.cn/login-box/*
